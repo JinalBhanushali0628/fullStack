@@ -1,3 +1,3 @@
 # fullStack
 full Stack using MERN
-work is in process... Please look at master branch
+work is in process... Please check on master branch
