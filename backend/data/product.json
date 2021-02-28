@@ -1,0 +1,91 @@
+[
+    {
+        "name":"laptop",
+        "price":50000,
+        "description":"MSI laptop has HDD 1TB and SSD 256GB drive. Touch screen feature. Gaming laptop with 4 GB graphics. Good bettary life.",
+       "rating":4.5,
+        "image":[
+            {
+                "public_id":" ",
+                "url":" "
+            }
+        ],
+        "category":"laptop",
+        "seller":"jinal Bhanushali",
+        "stock":3,
+        "numOfReview":2,
+        "reviews":[
+            {
+                "name":"drasti",
+                "comment":"Good features",
+                "rating":4.3
+            },
+            {
+                "name":"Shivam",
+                "comment":"Good Processor",
+                "rating":4.8
+            }
+        ]
+    },
+    {
+        "name":"earPhone",
+        "price":400,
+        "description":"Manufactured properly having boost sound.",
+       "rating":4.1,
+        "image":[
+            {
+                "public_id":" ",
+                "url":" "
+            }
+        ],
+        "category":"headphone",
+        "seller":"jinal Bhanushali",
+        "stock":5,
+        "numOfReview":2,
+        "reviews":[
+            {
+                "name":"Shivam",
+                "comment":"Good sound",
+                "rating":4.5
+            },
+            {
+                "name":"drasti",
+                "comment":"Good feature",
+                "rating":4.6
+            }
+        ]
+    },
+    {
+        "name":"earPhone",
+        "price":500,
+        "description":"Manufactured properly having boost sound.",
+       "rating":4.1,
+        "image":[
+            {
+                "public_id":" ",
+                "url":" "
+            }
+        ],
+        "category":"headphone",
+        "seller":"jinal Bhanushali",
+        "stock":5,
+        "numOfReview":2,
+        "reviews":[
+            {
+                "name":"Shivam",
+                "comment":"Good sound",
+                "rating":4.5
+            },
+            {
+                "name":"Deepa",
+                "comment":"Good feature",
+                "rating":4.6
+            }
+        ]
+    }
+    
+    
+
+    
+
+]
